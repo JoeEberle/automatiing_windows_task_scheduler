@@ -1,0 +1,9 @@
+2024-04-12 09:29:45,049 - INFO - START automating_windows_task_scheduler =============================================
+2024-04-12 09:29:45,049 - INFO - START automating_windows_task_scheduler Start Time = 2024-04-12 09:29:45
+2024-04-12 09:29:45,049 - INFO - automating_windows_task_scheduler Step 0 - Initialize the configuration file parser
+2024-04-12 09:29:45,049 - INFO - Process automating_windows_task_scheduler Step 0 - Initializing and starting Logging Process.
+2024-04-12 09:29:45,064 - INFO - PERFORMANCE automating_windows_task_scheduler The total process duration was:0.02
+2024-04-12 09:29:45,064 - INFO - PERFORMANCE automating_windows_task_scheduler Stop Time = 2024-04-12 09:29:45
+2024-04-12 09:29:45,064 - INFO - PERFORMANCE automating_windows_task_scheduler Short process duration less than 3 Seconds:0.02
+2024-04-12 09:29:45,065 - INFO - PERFORMANCE automating_windows_task_scheduler Performance optimization is not reccomended
+2024-04-12 09:29:45,065 - INFO - END automating_windows_task_scheduler =============================================
