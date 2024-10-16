@@ -39,11 +39,8 @@ To get started with the **Automating Windows Task Scheduler** solution repositor
  ![additional_image](automating_windows_task_scheduler.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
