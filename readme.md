@@ -1,6 +1,6 @@
 ![Image image_filename](solution_sign.png)
     
-# Automating Windows Task Scheduler 
+# Automating Windows Task Scheduler  
 
 ## This solution automates creating python script to run in windows task scheduler.
 
@@ -23,7 +23,7 @@
 - [Contact Information](#contact-information)
 
 
-Welcome to the solution **Automating Windows Task Scheduler** - an example for your projects
+Welcome to the solution **Automating Windows Task Scheduler ** - an example for your projects
 
 This solution automates creating python script to run in windows task scheduler.
 
@@ -37,7 +37,7 @@ This solution automates creating python script to run in windows task scheduler.
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
 
-To get started with the **Automating Windows Task Scheduler** solution repository, follow these steps:
+To get started with the **Automating Windows Task Scheduler ** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
@@ -54,7 +54,7 @@ To get started with the **Automating Windows Task Scheduler** solution repositor
 
 ## Code Features
 
-These features are designed to provide everything you need for **Automating Windows Task Scheduler** 
+These features are designed to provide everything you need for **Automating Windows Task Scheduler ** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
